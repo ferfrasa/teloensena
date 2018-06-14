@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/erika/.android/build-cache/556f939605074b124ea3438c09cb4c061e84023a/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/erika/.android/build-cache/556f939605074b124ea3438c09cb4c061e84023a/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/erika/.android/build-cache/556f939605074b124ea3438c09cb4c061e84023a/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/erika/.android/build-cache/556f939605074b124ea3438c09cb4c061e84023a/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/erika/.android/build-cache/556f939605074b124ea3438c09cb4c061e84023a/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/erika/.android/build-cache/556f939605074b124ea3438c09cb4c061e84023a/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    }
+]

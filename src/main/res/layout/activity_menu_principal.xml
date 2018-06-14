@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:design="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.udistrital.presentacion.MenuPrincipalActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+
+        <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="16dp"
+                    android:text="Menu Unidades"
+                    android:gravity="center_horizontal"
+                    android:textSize="@dimen/tamañoLetraTitulo"
+                    android:textStyle="bold"
+                    android:textColor="@android:color/holo_blue_light"
+                    />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:background="@drawable/borde">
+
+
+
+                    <LinearLayout
+                        android:paddingTop="16dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:padding="16dp"
+                            android:text="@string/seelccione_unidad"
+                            android:gravity="center_horizontal"
+                            android:textSize="@dimen/tamañoLetraTitulo"
+                            android:textStyle="bold"
+                            android:textColor="@android:color/holo_blue_light"
+                            />
+
+
+
+                        <Button
+                            android:id="@+id/unidad1"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            style="@style/Widget.AppCompat.Button.Colored"
+                            android:text="Unidad 1  Definiciones"
+                            />
+                        <Button
+                            android:id="@+id/unidad2"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Unidad 2 - Letras - Números"
+                            style="@style/Widget.AppCompat.Button.Colored"
+                            />
+
+                        <Button
+                            android:id="@+id/unidad3"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Unidad 3 - palabras"
+                            style="@style/Widget.AppCompat.Button.Colored"
+
+                            />
+
+                        <Button
+                            android:id="@+id/unidad4"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Unidad 4 - Verbos -Adjetivos-Pron"
+                            style="@style/Widget.AppCompat.Button.Colored"
+                            />
+
+                        <Button
+                            android:id="@+id/unidad5"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Unidad 5 - Frases"
+                            style="@style/Widget.AppCompat.Button.Colored"
+                            />
+
+                        <Button
+                            android:id="@+id/test_final"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Test Final"
+                            style="@style/Widget.AppCompat.Button.Colored"
+                            />
+
+
+                    </LinearLayout>
+
+
+
+                </LinearLayout>
+
+
+
+
+
+
+            </LinearLayout>
+        </ScrollView>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom">
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="4dp"
+                android:layout_gravity="top"
+                android:background="@drawable/sombra" />
+
+            <android.support.design.widget.BottomNavigationView
+                android:id="@+id/navigation"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:layout_weight="1"
+                android:visibility="visible"
+                design:menu="@menu/menu_navigation" />
+        </FrameLayout>
+    </LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>

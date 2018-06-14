@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TELOENSENA</string>
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Family</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="not_log_in">No se pudo iniciar sesión</string>
+    <string name="log_out">Log Out</string>
+    <string name="revoke">Revoke</string>
+    <string name="not_close_session">No se pudo cerrar sesión</string>
+    <string name="not_revoke">No se pudo revocar el acceso</string>
+    <string name="inicio">Inicio</string>
+    <string name="perfil">Perfil</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="salir">Salir</string>
+    <string name="contacto">Contacto</string>
+    <string name="perfilMay">PERFIL</string>
+    <string name="editar">Editar</string>
+    <string name="avanceT">Avance Tutorial</string>
+    <string name="restaurar_clave">Restaurar Clave</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="registrar_usuario">Registrar Usuario</string>
+    <string name="recuperar">Recuperar</string>
+    <string name="mensaje_error_correo">Ocurrio un error al enviar el correo</string>
+    <string name="mensaje_correo_exito">Se han enviado los pasos a seguir a tu correo</string>
+    <string name="unidades_completadas"> % Avance de tutorial</string>
+    <string name="test_inicial">Test Inicial</string>
+    <string name="test_unidad">Test Unidad</string>
+    <string name="test_final">Test Final</string>
+    <string name="texto_informacion_test">Selecciona la respuesta correcta</string>
+    <string name="iniciar_test">Iniciar Test</string>
+    <string name="texto_test_inicial">Realiza el test inicial para saber cuanto conoces de la lengua
+        de señas colombiano</string>
+    <string name="texto_test_final">Realiza el test final para saber cuanto conoces de la lengua
+        de señas colombiano</string>
+    <string name="texto_test_unidad">Realiza el test unidadd para saber cuanto conoces de la lengua
+        de señas colombiano</string>
+    <string name="unidad1">Unidad 1</string>
+    <string name="seleccionar_leccion">Selecciona una lección</string>
+    <string name="comenzar_test_unidad">Comenzar Test Unidad</string>
+    <string name="contenido_leccion1_uniad1">La lengua de señas es la lengua natural de las personas
+        sordas.Se basa en movimientos y expresiones a través de las manos, los ojos, el rostro,
+        la boca y el cuerpo. Muchos sordos se comunican con esta lengua y requieren de un
+        intérprete o persona que la maneje para relacionarse con oyentes que no la conocen.
+        </string>
+    <string name="contenido_leccion2_uniad1">Es considerada como una lengua natural de carácter
+        viso-gestual, cuyo canal de expresión son las manos, los ojos, el rostro, la boca y el
+        cuerpo y su canal de recepción es visual. Esta lengua es creada y utilizada por la
+        comunidad sorda nacional para satisfacer sus necesidades educativas, en tanto permite
+        expresar pensamientos, emociones y sentimientos que contribuyen al crecimiento
+        intelectual y personal de los usuarios, tal como es reconocido en la ley 324 de 1996.</string>
+    <string name="contenido_leccion3_uniad1">
+        Una persona sorda tiene la dificultad o la imposibilidad de usar el sentido del oído debido
+        a una pérdida de la capacidad auditiva parcial o total,
+        y unilateral o bilateral. Así pues, una persona sorda será incapaz o tendrá
+        problemas para escuchar.
+
+        Sordomudo es un término trasnochado e incorrecto que resulta molesto para este colectivo.
+       .</string>
+    <string name="contenido_leccion4_uniad1">Los nombres de las personas en lengua oral (Lola, Antonio, Carlos o Sofía) no son
+significativos entre las personas sordas porque se basan en el sonido. Por este motivo, las
+personas que pertenecen a la Comunidad Sorda tienen "signos propios". Así, todas las
+personas que se llamen Carmen, por ejemplo, tendrán señas diferentes.
+
+Este signo es personal y puede estar relacionado con alguna característica de la persona. Este
+recurso también lo utilizamos en las lenguas orales cuando "bautizamos" a una persona con
+un mote: el pelao, el cojo, el cabrero, el chincheta, etc.
+
+    La seña personal la asigna el resto de los miembros de la comunidad sorda (personal sordas y
+oyentes que utilizan la lengua de signos). A partir de ese momento, cuando a una persona se
+le ha asignado ya un signo propio, éste se utilizará siempre para referirse a esa persona.
+    </string>
+    <string name="contenido_leccion5_uniad1">La hipoacusia o sordera parcial es la disminución de la sensibilidad auditiva.
+        Afecta al oído y puede presentarse en el paciente en distintos grados de pérdida auditiva.
+
+        Puede a su vez ser unilateral y afectar a un solo oído, o por el contrario ser bilateral y afectar a los dos.
+
+    </string>
+
+    <string name="seelccione_unidad">Seleccione una unidad</string>
+    <string name="unidad_2">Unidad 2</string>
+
+    <string name="contenido_leccion1_uniad2">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican a las VOCALES en a lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfoca el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo</string>
+
+
+    <string name="contenido_leccion2_uniad2">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican a las letras del abecedario en a lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo</string>
+    <string name="contenido_leccion3_uniad2">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican a las letras del abecedario  en a lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo</string>
+    <string name="contenido_leccion4_uniad2">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican a las letras del abecedario  en a lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo</string>
+    <string name="contenido_leccion5_uniad2">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican a las letras del abecedario  en a lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo</string>
+    <string name="contenido_leccion6_uniad2">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican a los numeros de 1 -9  en a lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo. Aprendiendo estas señas
+    podras formar mas números combinadolos con otras señas básicas</string>
+    <string name="contenido_leccion7_uniad2">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican a los numeros de 10 -19  en a lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo. Aprendiendo estas señas
+    podras formar mas números combinadolos con otras señas básicas</string>
+    <string name="contenido_leccion8_uniad2">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican a los numeros de 20 -90  en a lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo. Aprendiendo estas señas
+    podras formar mas números combinadolos con otras señas básicas</string>
+    <string name="contenido_leccion9_uniad2">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican a los numeros de grandes cifras  en a lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo. Aprendiendo estas señas
+    podras formar mas números combinadolos con otras señas básicas</string>
+    <string name="contenido_leccion10_uniad2">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican a los numeros de 10 -19  en a lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo. Aprendiendo estas señas
+    podras formar mas números combinadolos con otras señas básicas</string>
+
+    <string name="contenido_leccion1_uniad3">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican a integrantes de la familia   en a lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo. Aprendiendo estas señas
+    podras formar frases combinadas con otras señas.</string>
+    <string name="contenido_leccion2_uniad3">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican a integrantes de la familia   en a lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo. Aprendiendo estas señas
+    podras formar frases combinadas con otras señas.</string>
+    <string name="contenido_leccion3_uniad3">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican palabras relacionadas con comida   en a lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo. Aprendiendo estas señas
+    podras formar frases combinadas con otras señas.</string>
+    <string name="contenido_leccion4_uniad3">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican palabras relacionadas con comida   en a lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo. Aprendiendo estas señas
+    podras formar frases combinadas con otras señas.</string>
+    <string name="contenido_leccion5_uniad3">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican palabras relacionadas con algunos animales   en a lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo. Aprendiendo estas señas
+    podras formar frases combinadas con otras señas.</string>
+    <string name="contenido_leccion6_uniad3">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican palabras relacionadas con algunos animales   en a lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo. Aprendiendo estas señas
+    podras formar frases combinadas con otras señas.</string>
+    <string name="contenido_leccion7_uniad3">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican palabras relacioandas con tiempo   en a lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo. Aprendiendo estas señas
+    podras formar frases combinadas con otras señas.</string>
+    <string name="contenido_leccion8_uniad3">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican palabras relacioandas con tiempo   en a lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo. Aprendiendo estas señas
+    podras formar frases combinadas con otras señas.</string>
+    <string name="contenido_leccion9_uniad3">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican a los colores en a lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo. Aprendiendo estas señas
+    podras formar frases combinadas con otras señas.</string>
+    <string name="contenido_leccion10_uniad3">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican a los colores en a lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo. Aprendiendo estas señas
+    podras formar frases combinadas con otras señas.</string>
+    <string name="contenido_leccion11_uniad3">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican algunas emociones en la lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo. Aprendiendo estas señas
+    podras formar frases combinadas con otras señas.</string>
+    <string name="contenido_leccion12_uniad3">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican algunas emociones en la lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo. Aprendiendo estas señas
+    podras formar frases combinadas con otras señas.</string>
+
+
+    <string name="contenido_leccion1_uniad4">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican los pronombres en  lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo. Aprendiendo estas señas
+    podras formar frases combinadas con otras señas.</string>
+    <string name="contenido_leccion2_uniad4">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican las preguntas en   lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo. Aprendiendo estas señas
+    podras formar frases combinadas con otras señas.</string>
+    <string name="contenido_leccion3_uniad4">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican las preguntas en   lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo. Aprendiendo estas señas
+    podras formar frases combinadas con otras señas.</string>
+    <string name="contenido_leccion4_uniad4">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican algunos verbos en la  lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo. Aprendiendo estas señas
+    podras formar frases combinadas con otras señas.</string>
+    <string name="contenido_leccion5_uniad4">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican algunos verbos en la  lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo. Aprendiendo estas señas
+    podras formar frases combinadas con otras señas</string>
+    <string name="contenido_leccion6_uniad4">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican algunos adjetivos en la  lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo. Aprendiendo estas señas
+    podras formar frases combinadas con otras señas</string>
+    <string name="contenido_leccion7_uniad4">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican algunos adjetivos en la  lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo. Aprendiendo estas señas
+    podras formar frases combinadas con otras señas</string>
+
+
+    <string name="contenido_leccion1_uniad5">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican algunos saludos y expresiones básicas en la  lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo. Aprendiendo estas señas
+    podras formar frases combinadas con otras señas</string>
+    <string name="contenido_leccion2_uniad5">En esta lección podras ver con REALIDAD AUMENTADA y
+        videos las señas que identifican algunos saludos y expresiones básicas en la  lengua de señas colombiana.
+    Oprime el boton de que dice Realidad Aumentada y despues enfocar el marcador que sale en la
+        imagen de abajo.Puedes Támbien ver el video de las señas en la parte de abajo. Aprendiendo estas señas
+    podras formar frases combinadas con otras señas</string>
+
+
+    <string name="video_leccion1_unidad2">1At43uPvNSs</string>
+    <string name="video_leccion2_unidad2">RI_mpDuAfJo</string>
+    <string name="video_leccion3_unidad2">BngtKT5BA5c</string>
+    <string name="video_leccion4_unidad2">KIp6BA3212Q</string>
+    <string name="video_leccion5_unidad2">g-f9B8o_SSw</string>
+    <string name="video_leccion6_unidad2">bAd8EIEJ0fs</string>
+    <string name="video_leccion7_unidad2">FwKwFFXtruw</string>
+    <string name="video_leccion8_unidad2">y9iL9bC957U</string>
+    <string name="video_leccion9_unidad2">AHOVTheQZI8</string>
+    <string name="video_leccion10_unidad2">zPFUosnKRYA</string>
+
+    <string name="video_leccion1_unidad3">IraoPIb6m80</string>
+    <string name="video_leccion2_unidad3">gBlMXv9Wy-0</string>
+    <string name="video_leccion3_unidad3">zz4p-CpO6_8</string>
+    <string name="video_leccion4_unidad3">bMJXrSJqzaY</string>
+    <string name="video_leccion5_unidad3">vWkweRpcBgQ</string>
+    <string name="video_leccion6_unidad3">xWfjo_Uh_bo</string>
+    <string name="video_leccion7_unidad3">TQvDIItc__0</string>
+    <string name="video_leccion8_unidad3">KCUzicT7KAQ</string>
+    <string name="video_leccion9_unidad3">mhV9oEJxXD8</string>
+    <string name="video_leccion10_unidad3">63yHbhnSnUw</string>
+    <string name="video_leccion11_unidad3">uNfe8yF1Z9E</string>
+    <string name="video_leccion12_unidad3">OljIJp7u7h8</string>
+
+
+    <string name="video_leccion1_unidad4">9MQQbmztYFA</string>
+    <string name="video_leccion2_unidad4">qMafl6NWq6s</string>
+    <string name="video_leccion3_unidad4">nmJ51nsYSEA</string>
+    <string name="video_leccion4_unidad4">qSWl1CjYjcQ</string>
+    <string name="video_leccion5_unidad4">d6miH_cjZYM</string>
+    <string name="video_leccion6_unidad4">w1i4p3QJAHE</string>
+    <string name="video_leccion7_unidad4">Z5OSN7-LmzY</string>
+
+
+
+    <string name="video_leccion1_unidad5">wfcpl52OJ_0</string>
+    <string name="video_leccion2_unidad5">CQjcGuYbRfY</string>
+
+
+    <string name="realidad_aumentada">Iniciar Realidad Aumentada</string>
+    <string name="unidad_tres">Unidad 3</string>
+    <string name="unidad_cuatro">Unidad 4</string>
+    <string name="unidad_cinco">Unidad 5</string>
+    <string name="preguta_1">¿Cómo inicio el modulo de realidad aumentada?</string>
+    <string name="respuesta_1">En cada lección ed cada unidad se encuentra el boton correspondiente para inicia Realidad AUMENTADA, solo toca enfocar el marcador correspondiente</string>
+    <string name="pregunta_2">¿Dónde puedo ver el avance de mi tutorial?</string>
+    <string name="respuesta_2">A seleccionar la opción de perfil de la aplicación en la pantalla que sale al entrar, se puede ver una barra de progreso por % del tutorial y a la vez las unidades pasadas.</string>
+    <string name="respuesta_5">Si, la aplicación necesita conexión a Internet para funcionar correctamente</string>
+    <string name="pregurnta_5">¿Mi Aplicación necesita conexion a internet para funcionar?</string>
+    <string name="pregunta_3">¿Dónde puedo decargar los marcadores para el modulo de Realidad aumentada?</string>
+    <string name="pregunta_5">¿Dónde puedo descargar el manual de usuario?</string>
+    <string name="diccionario">Diccionario</string>
+
+
+</resources>

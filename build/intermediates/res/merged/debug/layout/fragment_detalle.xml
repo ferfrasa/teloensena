@@ -1,0 +1,82 @@
+
+<!--<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:fillViewport="true">-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:id="@+id/modi">
+
+    <TextView
+        android:padding="16sp"
+        android:id="@+id/detalle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Seleccione una leccion"
+        android:textSize="19sp"
+        android:textColor="@color/category_family"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:padding="16sp"
+        android:textSize="19sp"
+        android:id="@+id/detalle22"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Seleccione la leccion"/>
+
+    <ImageView
+        android:id="@+id/image1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ls"
+
+        />
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/image2"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/family_daughter"
+
+            />
+        <ImageView
+            android:id="@+id/image3"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/family_father"
+
+            />
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/realidadA"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text="@string/realidad_aumentada"
+        android:gravity="center_horizontal"
+        android:textSize="@dimen/letra_pequeña_dos"
+        android:textStyle="bold"
+        android:textColor="@android:color/holo_blue_light" />
+
+
+</LinearLayout>
+<!--</ScrollView>-->
+
+

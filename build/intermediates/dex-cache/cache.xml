@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/erika/.android/build-cache/c99415d3a1e3c5638cd3817eb2f966330ff7c913/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3da345d7c08a7e9d83a34d8723057624b941c0ea">
+        <dex dex="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/pre-dexed/debug/classes_ac53dd120bc618e9f27087c09375e877d90f9db6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erika/.android/build-cache/9d609b7e1c2fe183ba7fea0eed0aec42967c380b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1e7ad8d5340b695e52cc5a14819f4264a4f4b8e">
+        <dex dex="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/pre-dexed/debug/classes_f3a14044340e62965fb1a12f2572d807a9f2c0ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erika/.android/build-cache/6d4a3a15fe3efb075ceb389fb94b76cc100e3708/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/pre-dexed/debug/classes_e242d618098664d64172e7102d6373c2100de4f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erika/.android/build-cache/5e0dd60307e62890e64560d9fd8073fe7f3fb382/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="28ed270c519ff2874343e0824808da2efda0df9c">
+        <dex dex="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/pre-dexed/debug/classes_c453b8d40fa3f34d4d1303f9adaa0a2b792a116f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erika/.android/build-cache/c4aac86d0f08ef4d31e06de0897e7020188df425/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="757d7e742ee90d50242abdc8616bfcfd04ad0575">
+        <dex dex="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/pre-dexed/debug/classes_9a40cb36bb1ce64c57953fcf8dfd73e6ed2eca98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erika/.android/build-cache/d5f689f748edf551c359de9d95ae8d151f3c1905/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="36a6c288ed760d2d899126fa90761b84af10dd2d">
+        <dex dex="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/pre-dexed/debug/classes_36b5424d6e274c002b9509ed47cdb55424e5c5a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erika/.android/build-cache/43788c3fa371944b89e2e6f530e70b83ca0ccf79/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="edba0aec4aedd4edb3a520b4ee87adc52be762da">
+        <dex dex="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/pre-dexed/debug/classes_e5f2bc0c2f213c9f1dce69d54c6722c56644ed73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/libs/VuforiaMedia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="084d95599f0f5cef4bfaadd565b45cdf710405a1">
+        <dex dex="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/pre-dexed/debug/VuforiaMedia_776292c07a8c9b49e6645a0792c18fd68f700e46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erika/.android/build-cache/2f61d66042b363eae9564f78449e4a7e87bf3b06/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="341fc0b4661ec63331b1d95d8ceaeb04f5fd25cd">
+        <dex dex="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/pre-dexed/debug/classes_67d8450635323d2497e9e73b2e7cca91de6cc5be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erika/.android/build-cache/56042c5e2d9dd713ca91c6d0431b4c3b7621c8c5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03589bac12234193d4a7a9b106a6db1b367afe99">
+        <dex dex="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/pre-dexed/debug/classes_e9817fa40b88652a4484dec1bd20c32d52c42483.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erika/.android/build-cache/13f44239499e813cc5a121dfec91089e55f9a56c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/pre-dexed/debug/classes_361d1d5c670ca80b1bca31f6200f2adc197ed07c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/libs/VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="240e5af6cbbcb24522c5f70695bee1c61a87bf11">
+        <dex dex="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/pre-dexed/debug/VuforiaUnityPlayer_1e8c47731cfc35fe88ccee755c1751b03559df1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erika/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/pre-dexed/debug/glide-3.7.0_89cc99f86ab98fcc687267fb532041cd0964f193.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erika/.android/build-cache/ca36510c619d42c5f3fe00946eb022421ebf8c76/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76a7a625df0e9027b53dbed6e9ba9a6031a42e39">
+        <dex dex="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/pre-dexed/debug/classes_258cb1b4543ea43a4c058f25a04bf7a0243b9d38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e39a4110c056e478744a17f17b2e6dd4f6a744fd">
+        <dex dex="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/pre-dexed/debug/unity-classes_7e86416fa15b633e1ca9310392265251d8553f77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/libs/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c273dd9fa2eed345a0a3f11e2c0f0db7e8cf2c8">
+        <dex dex="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/pre-dexed/debug/Vuforia_098498f40240e16f01b2c65aef035ab0af637029.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erika/.android/build-cache/ce15f33f2addea0b14ac2fec8239fd3ce2739662/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7b4dc2d9e39fb8ec5ddca9b3b3cb7c627690f3a6">
+        <dex dex="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/pre-dexed/debug/classes_628b39ad57040f8bd50198bd681f9e4b6211f7eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erika/.android/build-cache/ffa3f8caf5303e9f8eddc95d11f2d25462ff919f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="132a3661719fdac703f2a6f6a7b178c85cfe3cc6">
+        <dex dex="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/pre-dexed/debug/classes_41f2a5e38217d24d4c6401f107ca31a660e625af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erika/.android/build-cache/9b48b88c34aee8e02499946f61e3668852040e5f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c478771eacdf8217e093a1b967b8152cfdaadc94">
+        <dex dex="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/pre-dexed/debug/classes_6c9bfa7551cf3edcfd5e7a8c6856bd4c33096bda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erika/.android/build-cache/d547607596a009976ca2f4769a191840b4253394/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/pre-dexed/debug/classes_753f34315b01d53064be39803587eda14f373605.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi_c359f002d9e5742723410010f25d0c29bac97322.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erika/.android/build-cache/b7e78a2af37490947fb7fbb7c4047b3973202b4c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cad6f251cba07624f49b0c5b6287731a3c9957b8">
+        <dex dex="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/pre-dexed/debug/classes_299e2e2bde7c855f633a424362cc59263d550524.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/erika/.android/build-cache/00778d9ec7eea009e3003ea2ad3d853129dfd6e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="56ae1b700bdd20fdf8c5347fadcc96228fc1bf16">
+        <dex dex="/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/pre-dexed/debug/classes_e05f7b905032fc291a3c4b94847efa81fb48ce73.jar" />
+    </item>
+
+</items>

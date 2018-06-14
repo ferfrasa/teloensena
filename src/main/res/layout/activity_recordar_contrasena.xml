@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="com.udistrital.presentacion.usuario.RecordarContrasenaActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="16sp"
+        android:paddingBottom="16sp"
+        android:text="@string/restaurar_clave"
+        android:textSize="30sp"
+        android:layout_gravity="center_horizontal"
+        />
+
+    <EditText
+        android:id="@+id/txtcorreo"
+        android:paddingTop="16sp"
+        android:paddingBottom="16sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="Correo"
+        android:inputType="textEmailAddress"
+
+        />
+
+
+    <Button
+        android:id="@+id/btRecordarC"
+        android:layout_width="wrap_content"
+        android:paddingTop="16sp"
+        android:paddingBottom="16sp"
+        android:layout_height="wrap_content"
+        android:text="@string/recuperar"
+        android:layout_gravity="center_horizontal"/>
+    <TextView
+        android:paddingTop="16sp"
+        android:paddingBottom="16sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="También puedes"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:paddingRight="16dp"
+        android:paddingLeft="16dp">
+
+        <Button
+            android:id="@+id/btIniciarS"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|left"
+            android:layout_weight="1"
+            android:text="@string/iniciar_sesion"
+            android:paddingLeft="16sp"
+            android:paddingRight="16sp"
+            />
+        <Button
+            android:id="@+id/btRegistrarU"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|right"
+            android:layout_weight="1"
+            android:paddingLeft="16sp"
+            android:paddingRight="16sp"
+            android:text="@string/registrar_usuario"/>
+
+        <!--<com.google.android.gms.common.SignInButton
+            android:id="@+id/sign"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingLeft="16sp"
+            android:paddingRight="16sp">
+        </com.google.android.gms.common.SignInButton>-->
+
+    </LinearLayout>
+
+
+    <ProgressBar
+        android:id="@+id/progressLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:visibility="gone"/>
+
+
+
+</LinearLayout>

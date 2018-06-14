@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="pregunta2" size="100.000000 91.512192" />
+    <ImageTarget name="verbos2" size="100.000000 135.567017" />
+    <ImageTarget name="verbos1" size="100.000000 135.567017" />
+    <ImageTarget name="saludos2" size="100.000000 91.512192" />
+    <ImageTarget name="saludos1" size="100.000000 91.512192" />
+    <ImageTarget name="pronombres" size="100.000000 91.512192" />
+    <ImageTarget name="preguntas1" size="100.000000 91.512192" />
+    <ImageTarget name="macadorDeletrear" size="100.000000 91.512192" />
+    <ImageTarget name="adjetivos2" size="100.000000 135.567017" />
+    <ImageTarget name="adjetivos" size="100.000000 135.567017" />
+    <ImageTarget name="marcadorTiempo2" size="100.000000 135.567017" />
+    <ImageTarget name="marcadorTiempo" size="100.000000 135.567017" />
+    <ImageTarget name="marcadorComida12" size="100.000000 135.567017" />
+    <ImageTarget name="marcadorComida11" size="100.000000 135.567017" />
+    <ImageTarget name="colores2" size="100.000000 135.567017" />
+    <ImageTarget name="colores" size="100.000000 135.567017" />
+    <ImageTarget name="emociones2" size="100.000000 135.567017" />
+    <ImageTarget name="emociones1" size="100.000000 135.567017" />
+    <ImageTarget name="animales2" size="100.000000 135.567017" />
+    <ImageTarget name="animales1" size="100.000000 135.567017" />
+    <ImageTarget name="marcadorFamiliaNivel2" size="100.000000 120.091324" />
+    <ImageTarget name="marcadorFamiliaBase" size="100.000000 120.091324" />
+    <ImageTarget name="marcadoNumerosTres" size="300.000000 359.808105" />
+    <ImageTarget name="marcadoNumerosDo" size="300.000000 271.551727" />
+    <ImageTarget name="marcadoNumerosDe" size="300.000000 362.068970" />
+    <ImageTarget name="marcadoNumeros" size="200.000000 181.099655" />
+    <ImageTarget name="marcadoLetras4" size="200.000000 271.134033" />
+    <ImageTarget name="marcadoLetras3" size="200.000000 271.134033" />
+    <ImageTarget name="marcadoLetras2" size="200.000000 271.134033" />
+    <ImageTarget name="marcadoLetras1" size="200.000000 271.134033" />
+    <ImageTarget name="marcadoVocales" size="200.000000 271.134033" />
+  </Tracking>
+</QCARConfig>

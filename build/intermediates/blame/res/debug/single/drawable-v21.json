@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/erika/.android/build-cache/13f44239499e813cc5a121dfec91089e55f9a56c/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/erika/.android/build-cache/556f939605074b124ea3438c09cb4c061e84023a/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/erika/.android/build-cache/556f939605074b124ea3438c09cb4c061e84023a/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/erika/.android/build-cache/556f939605074b124ea3438c09cb4c061e84023a/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/erika/.android/build-cache/13f44239499e813cc5a121dfec91089e55f9a56c/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/erika/.android/build-cache/13f44239499e813cc5a121dfec91089e55f9a56c/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/erika/.android/build-cache/13f44239499e813cc5a121dfec91089e55f9a56c/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/res/merged/debug/drawable-v21/item_background.xml",
+        "source": "/home/erika/.android/build-cache/c4aac86d0f08ef4d31e06de0897e7020188df425/output/res/drawable-v21/item_background.xml"
+    },
+    {
+        "merged": "/media/erika/DISCO LOCAL/APP TUTORIAL LSC REALIDA AUMENTADA/CODIGO/TELOENSENAv3/TELOENSENA/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/erika/.android/build-cache/556f939605074b124ea3438c09cb4c061e84023a/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]
